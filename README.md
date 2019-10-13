@@ -1,10 +1,7 @@
-# PatternCommand
-### Design Pattern Command pattern
+# Pattern Facade
+Facade 模式的練習
+- http://teddy-chen-tw.blogspot.com/2013/08/facade-pattern.html
+- https://www.tutorialspoint.com/design_pattern/facade_pattern.htm
+- https://examples.javacodegeeks.com/core-java/java-facade-design-pattern-example/
 
-
-### Ref:
-- https://www.cnblogs.com/devinzhang/archive/2012/01/06/2315235.html
-- https://www.javagists.com/command-pattern-java-examples
-- http://teddy-chen-tw.blogspot.com/2013/08/command-pattern.html
-- https://notfalse.net/4/command-pattern
-- https://dzone.com/articles/design-patterns-command
+  
