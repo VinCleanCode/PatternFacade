@@ -95,3 +95,5 @@ buildNumber.properties
 
 .idea/
 PatternCommand.iml
+/target/
+PatternFacade.iml
